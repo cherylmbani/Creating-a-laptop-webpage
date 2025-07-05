@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    border: dashed;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+
+}
